@@ -1,0 +1,2 @@
+# SHU261_Final_FishLanternParade
+SHU261基础实践期末作业：以鱼灯巡游场景为设计对象，使用Reaper和Wwise工具的环境声设计。
